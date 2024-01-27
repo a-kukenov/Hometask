@@ -1,0 +1,64 @@
+{
+	"ITEMS": [
+		{
+			"name": "Телефон",
+			"img": "https://xistore.by/upload/resize/element/108949/c18/165979c4e2f194525bbc22a67dff0c31_482_482_80.jpg",
+			"cost": 852,
+			"amount": 52
+		},
+		{
+			"name": "Наушники",
+			"img": "https://smartpresent.ru/wp-content/uploads/2023/07/h633bt-2-scaled-e1689774785600.jpg",
+			"cost": 148,
+			"amount": 112
+		},
+		{
+			"name": "Монитор",
+			"img": "https://xistore.by/upload/resize/element/137189/73f/331099254124a6bc12be897a9adcd0bc_482_482_80.jpg",
+			"cost": 863,
+			"amount": 32
+		},
+		{
+			"name": "Клавиатура",
+			"img": "https://object.pscloud.io/cms/cms/Photo/img_0_88_360_0_1.jpg",
+			"cost": 253,
+			"amount": 173
+		},
+		{
+			"name": "Мышь",
+			"img": "https://object.pscloud.io/cms/cms/Photo/img_0_89_752_1_1.jpg",
+			"cost": 112,
+			"amount": 337
+		},
+		{
+			"name": "Колонка",
+			"img": "https://piano.by/images/cache/97df613eb86e8f442defd504e0ec82f2.webp",
+			"cost": 315,
+			"amount": 85
+		},
+		{
+			"name": "Геймпад",
+			"img": "https://photo-shop.by/pics/items/20230522150528679_Sony_DualSense_wh.jpg",
+			"cost": 172,
+			"amount": 14
+		},
+		{
+			"name": "VR Гарнитура",
+			"img": "https://komete-xr.com/cdn/shop/files/Acheter-Meta-Quest-3.webp?v=1695843071",
+			"cost": 1562,
+			"amount": 38
+		},
+		{
+			"name": "Микрофон",
+			"img": "https://megastore.kg/upload/iblock/a78/a789086fbfd53f2d27627a16dd7c034a.jpg",
+			"cost": 347,
+			"amount": 77
+		},
+		{
+			"name": "Системный блок",
+			"img": "https://cdn1.ozone.ru/s3/multimedia-e/6558039650.jpg",
+			"cost": 2352,
+			"amount": 23
+		}
+	]
+}
