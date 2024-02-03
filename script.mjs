@@ -8,7 +8,6 @@ const getData = url =>
     )
 
 const container = document.querySelector('.container')
-timer()
 getData('http://localhost:3000/ITEMS')
     .then(data => {
         data.forEach(element => {
@@ -27,5 +26,6 @@ getData('http://localhost:3000/ITEMS')
             const img = document.querySelector('.img');
             img.style.backgroundImage = `url(${element.img})`
         })
+        timer(data)
     })
     .catch(error => console.error(error))
